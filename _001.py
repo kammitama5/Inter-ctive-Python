@@ -19,3 +19,4 @@ print(True and False) # P
 print(5==10) # prints False
 print(10 > 5) # prints True
 print((5 >= 1) and (5 <= 10)) # prints True
+
